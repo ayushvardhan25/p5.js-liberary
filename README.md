@@ -1,1 +1,2 @@
-# p5.js-liberary
+# p5.play-boilerplate
+Boiler plate for p5.play
